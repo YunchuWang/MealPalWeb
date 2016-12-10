@@ -1,0 +1,39 @@
+.TodoList {
+      padding: 50px;
+      background-color: #66CCFF;
+      font-family: Lucida Grande, sans-serif;
+}
+.TodoBanner {
+    background: #346;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+    border-radius: 2;
+}
+
+.ListItems {
+    color: #FFF;
+    background-color: rgba(255,255,255,.5);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.InputForm input[type=text] {
+   border: 1px solid #ccc;
+  padding: 7px 5px;
+  width: 150px;
+  font-size: 14px;
+    color: aquamarine
+}
+.InputForm input[type=button] {
+  border: 1px solid #ccc;
+  margin-left: 5px;
+  padding: 5px 5px;
+  font-size: 1em;
+}
+.InputForm input[type=button]:hover{
+  background-color: #003399;
+  border: 2px solid #003399;
+  cursor: pointer;
+}
